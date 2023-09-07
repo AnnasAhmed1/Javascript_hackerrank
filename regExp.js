@@ -1,0 +1,1 @@
+const re= new RegExp(/^([aeiou]).*\1$/);
